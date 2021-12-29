@@ -1,4 +1,7 @@
 # Changelog for CIWSWeapon
 
+1.0.1.0 - Fixed the now required smeltable-tag on the grenades
+
+
 1.0.0.0 - First publish
 

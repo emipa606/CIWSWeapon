@@ -48,6 +48,7 @@
     <smeltProducts>
       <Steel>10</Steel>
     </smeltProducts>
+    <smeltable>true</smeltable>
   </ThingDef>
   <ThingDef ParentName="BaseGrenadeProjectile">
     <defName>Proj_Type67GrenadeFrag</defName>
