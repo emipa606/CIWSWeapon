@@ -2,5 +2,16 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "LastXmlCleaning": "2025-07-04T22:33:45.1737705+02:00",
+  "SocialImageSet": true,
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 24544.0,
+  "SearchTags": [
+    " military",
+    "weapons"
+  ]
 }

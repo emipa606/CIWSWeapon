@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make 六七式木柄手榴弹 -->
+  <Make_CIWS_Type67GrenadeFrag.label>make 六七式木柄手榴弹</Make_CIWS_Type67GrenadeFrag.label>
+  <!-- EN: Make a 六七式木柄手榴弹. -->
+  <Make_CIWS_Type67GrenadeFrag.description>Make a 六七式木柄手榴弹.</Make_CIWS_Type67GrenadeFrag.description>
+  <!-- EN: Making 六七式木柄手榴弹. -->
+  <Make_CIWS_Type67GrenadeFrag.jobString>Making 六七式木柄手榴弹.</Make_CIWS_Type67GrenadeFrag.jobString>
+  <!-- EN: make Glock 18C -->
+  <Make_Gun_CIWS_G18C.label>make Glock 18C</Make_Gun_CIWS_G18C.label>
+  <!-- EN: Make a Glock 18C. -->
+  <Make_Gun_CIWS_G18C.description>Make a Glock 18C.</Make_Gun_CIWS_G18C.description>
+  <!-- EN: Making Glock 18C. -->
+  <Make_Gun_CIWS_G18C.jobString>Making Glock 18C.</Make_Gun_CIWS_G18C.jobString>
+  <!-- EN: make PF89A rocket -->
+  <Make_Gun_CIWS_PF89A.label>make PF89A rocket</Make_Gun_CIWS_PF89A.label>
+  <!-- EN: Make a PF89A rocket. -->
+  <Make_Gun_CIWS_PF89A.description>Make a PF89A rocket.</Make_Gun_CIWS_PF89A.description>
+  <!-- EN: Making PF89A rocket. -->
+  <Make_Gun_CIWS_PF89A.jobString>Making PF89A rocket.</Make_Gun_CIWS_PF89A.jobString>
+  <!-- EN: make 85 type sniper rifle -->
+  <Make_Gun_QBU85A.label>make 85 type sniper rifle</Make_Gun_QBU85A.label>
+  <!-- EN: Make a 85 type sniper rifle. -->
+  <Make_Gun_QBU85A.description>Make a 85 type sniper rifle.</Make_Gun_QBU85A.description>
+  <!-- EN: Making 85 type sniper rifle. -->
+  <Make_Gun_QBU85A.jobString>Making 85 type sniper rifle.</Make_Gun_QBU85A.jobString>
+  <!-- EN: make 81-1 type automatic rifle -->
+  <Make_Gun_QBZ81A.label>make 81-1 type automatic rifle</Make_Gun_QBZ81A.label>
+  <!-- EN: Make a 81-1 type automatic rifle. -->
+  <Make_Gun_QBZ81A.description>Make a 81-1 type automatic rifle.</Make_Gun_QBZ81A.description>
+  <!-- EN: Making 81-1 type automatic rifle. -->
+  <Make_Gun_QBZ81A.jobString>Making 81-1 type automatic rifle.</Make_Gun_QBZ81A.jobString>
+  <!-- EN: make 土制猎枪 -->
+  <Make_Gun_TuZhiLieQiang.label>make 土制猎枪</Make_Gun_TuZhiLieQiang.label>
+  <!-- EN: Make a 土制猎枪. -->
+  <Make_Gun_TuZhiLieQiang.description>Make a 土制猎枪.</Make_Gun_TuZhiLieQiang.description>
+  <!-- EN: Making 土制猎枪. -->
+  <Make_Gun_TuZhiLieQiang.jobString>Making 土制猎枪.</Make_Gun_TuZhiLieQiang.jobString>
+  <!-- EN: make outfire grenade -->
+  <Make_Weapon_GrenadeMiehuo.label>make outfire grenade</Make_Weapon_GrenadeMiehuo.label>
+  <!-- EN: Make an outfire grenade. -->
+  <Make_Weapon_GrenadeMiehuo.description>Make an outfire grenade.</Make_Weapon_GrenadeMiehuo.description>
+  <!-- EN: Making outfire grenade. -->
+  <Make_Weapon_GrenadeMiehuo.jobString>Making outfire grenade.</Make_Weapon_GrenadeMiehuo.jobString>
+</LanguageData>

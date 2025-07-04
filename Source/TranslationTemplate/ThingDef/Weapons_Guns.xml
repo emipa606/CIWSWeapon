@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 九毫米鲁格弹 -->
+  <Bullet_9mmluge.label>九毫米鲁格弹</Bullet_9mmluge.label>
+  <!-- EN: 七点六二毫米狙击弹 -->
+  <Bullet_Dbp53A.label>七点六二毫米狙击弹</Bullet_Dbp53A.label>
+  <!-- EN: 三十五毫米榴弹 -->
+  <Bullet_DFS87A.label>三十五毫米榴弹</Bullet_DFS87A.label>
+  <!-- EN: 八十毫米火箭弹 -->
+  <Bullet_Huojiandan.label>八十毫米火箭弹</Bullet_Huojiandan.label>
+  <!-- EN: 七点六二毫米M1943中间型步枪弹 -->
+  <Bullet_M1943A.label>七点六二毫米M1943中间型步枪弹</Bullet_M1943A.label>
+  <!-- EN: 铁砂 -->
+  <Bullet_TieSha.label>铁砂</Bullet_TieSha.label>
+  <!-- EN: 格洛克18C -->
+  <Gun_CIWS_G18C.label>格洛克18C</Gun_CIWS_G18C.label>
+  <!-- EN: 格洛克18C手枪，一款优秀的自动手枪，拥有自动射击功能。 -->
+  <Gun_CIWS_G18C.description>格洛克18C手枪，一款优秀的自动手枪，拥有自动射击功能。</Gun_CIWS_G18C.description>
+  <!-- EN: grip -->
+  <Gun_CIWS_G18C.tools.grip.label>grip</Gun_CIWS_G18C.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_CIWS_G18C.tools.barrel.label>barrel</Gun_CIWS_G18C.tools.barrel.label>
+  <!-- EN: 格洛克18C -->
+  <Gun_CIWS_G18C.verbs.Verb_Shoot.label>格洛克18C</Gun_CIWS_G18C.verbs.Verb_Shoot.label>
+  <!-- EN: PF89A火箭筒 -->
+  <Gun_CIWS_PF89A.label>PF89A火箭筒</Gun_CIWS_PF89A.label>
+  <!-- EN: PF89A式单兵火箭筒。 -->
+  <Gun_CIWS_PF89A.description>PF89A式单兵火箭筒。</Gun_CIWS_PF89A.description>
+  <!-- EN: barrel -->
+  <Gun_CIWS_PF89A.tools.barrel.label>barrel</Gun_CIWS_PF89A.tools.barrel.label>
+  <!-- EN: PF89A火箭筒 -->
+  <Gun_CIWS_PF89A.verbs.Verb_Shoot.label>PF89A火箭筒</Gun_CIWS_PF89A.verbs.Verb_Shoot.label>
+  <!-- EN: 八五式狙击步枪 -->
+  <Gun_QBU85A.label>八五式狙击步枪</Gun_QBU85A.label>
+  <!-- EN: 中国生产的85式狙击步枪，由79式狙击步枪改进而来。 -->
+  <Gun_QBU85A.description>中国生产的85式狙击步枪，由79式狙击步枪改进而来。</Gun_QBU85A.description>
+  <!-- EN: stock -->
+  <Gun_QBU85A.tools.stock.label>stock</Gun_QBU85A.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_QBU85A.tools.barrel.label>barrel</Gun_QBU85A.tools.barrel.label>
+  <!-- EN: 八五式狙击步枪 -->
+  <Gun_QBU85A.verbs.Verb_Shoot.label>八五式狙击步枪</Gun_QBU85A.verbs.Verb_Shoot.label>
+  <!-- EN: 八一杠一式自动步枪 -->
+  <Gun_QBZ81A.label>八一杠一式自动步枪</Gun_QBZ81A.label>
+  <!-- EN: 中国生产的一款精度好、动作可靠、操作维护简便的自动步枪。 -->
+  <Gun_QBZ81A.description>中国生产的一款精度好、动作可靠、操作维护简便的自动步枪。</Gun_QBZ81A.description>
+  <!-- EN: stock -->
+  <Gun_QBZ81A.tools.stock.label>stock</Gun_QBZ81A.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_QBZ81A.tools.barrel.label>barrel</Gun_QBZ81A.tools.barrel.label>
+  <!-- EN: 八一杠一式自动步枪 -->
+  <Gun_QBZ81A.verbs.Verb_Shoot.label>八一杠一式自动步枪</Gun_QBZ81A.verbs.Verb_Shoot.label>
+  <!-- EN: 11式狙击榴弹发射器 -->
+  <Gun_QLU11A.label>11式狙击榴弹发射器</Gun_QLU11A.label>
+  <!-- EN: 11式狙击榴弹发射器是中国北方工业集团公司研制的一型榴弹发射器。11式狙击榴弹发射器可发射35毫米榴弹，攻击简易攻势和轻型装甲目标，是步兵的作战装备。 -->
+  <Gun_QLU11A.description>11式狙击榴弹发射器是中国北方工业集团公司研制的一型榴弹发射器。11式狙击榴弹发射器可发射35毫米榴弹，攻击简易攻势和轻型装甲目标，是步兵的作战装备。</Gun_QLU11A.description>
+  <!-- EN: stock -->
+  <Gun_QLU11A.tools.stock.label>stock</Gun_QLU11A.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_QLU11A.tools.barrel.label>barrel</Gun_QLU11A.tools.barrel.label>
+  <!-- EN: 11式狙击榴弹发射器 -->
+  <Gun_QLU11A.verbs.Verb_Shoot.label>11式狙击榴弹发射器</Gun_QLU11A.verbs.Verb_Shoot.label>
+  <!-- EN: 土制猎枪 -->
+  <Gun_TuZhiLieQiang.label>土制猎枪</Gun_TuZhiLieQiang.label>
+  <!-- EN: 简单制作的猎枪，比霰弹枪杀伤力更强，射程更短，适合前期消灭任何胆敢近身的敌人，感谢箱兔小姐姐的贴图支持。 -->
+  <Gun_TuZhiLieQiang.description>简单制作的猎枪，比霰弹枪杀伤力更强，射程更短，适合前期消灭任何胆敢近身的敌人，感谢箱兔小姐姐的贴图支持。</Gun_TuZhiLieQiang.description>
+  <!-- EN: stock -->
+  <Gun_TuZhiLieQiang.tools.stock.label>stock</Gun_TuZhiLieQiang.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_TuZhiLieQiang.tools.barrel.label>barrel</Gun_TuZhiLieQiang.tools.barrel.label>
+  <!-- EN: 土制猎枪 -->
+  <Gun_TuZhiLieQiang.verbs.Verb_Shoot.label>土制猎枪</Gun_TuZhiLieQiang.verbs.Verb_Shoot.label>
+</LanguageData>
